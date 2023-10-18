@@ -14,6 +14,7 @@ void main() {
 
 String playerName(String? name) => name ?? 'Guest';
 // the line 14 above is similar to this
+
 // String playerName(String? name) {
 //   if (name != null) {
 //     return name;
